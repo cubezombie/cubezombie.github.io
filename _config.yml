@@ -1,13 +1,13 @@
 site: Sidey
-url: #yoururl
+url: https://cubezombie.github.io
 title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+description: Simple and minimalistic blog and resume site using jekyll
 twitter:
-  username: #yourusername
+  username: cubezombie
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
+  twitter: cubezombie
   name: #yourusername
   avatar:
   email: #youremail
