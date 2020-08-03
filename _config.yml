@@ -1,7 +1,7 @@
-site: Sidey
+site: Linux Systems Administrator
 url: https://cubezombie.github.io
-title: Sidey
-description: Simple and minimalistic blog and resume site using jekyll
+title: Linux Systems Administrator
+description: Simple and minimalistic blog and resume site using jekyll and the sidey theme
 twitter:
   username: cubezombie
   card: summary
@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
