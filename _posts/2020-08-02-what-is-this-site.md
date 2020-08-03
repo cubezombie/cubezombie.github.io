@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: What Is This Site
 description: information
 summary: what I am using this site for
