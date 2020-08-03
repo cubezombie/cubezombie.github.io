@@ -1,6 +1,6 @@
 ---
 layout:post
-title: What is this site
+title: What Is This Site
 description: information
 summary: what I am using this site for
 tags: [linux, sysadmin, resume, work]
